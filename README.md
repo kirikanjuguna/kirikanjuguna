@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Edwin</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Hello+👋%2C+I'm+Edwin;Jambo+👋%2C+I'm+Edwin;Hallo+👋%2C+I'm+Edwin;Bonjour+👋%2C+I'm+Edwin;Ciao+👋%2C+I'm+Edwin;こんにちは+👋%2C+I'm+Edwin;你好+👋%2C+I'm+Edwin" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">Software Engineer | Minimalist | Problem Solver</h3>
 
 <p align="center">
@@ -8,7 +11,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on **Kenstar**, and **Solo pro ** while developing other exciting projects.
+- 🔭 I’m currently working on **Kenstar**, and **Solo pro** while developing other exciting projects.
 - 🌱 I’m learning **TypeScript**, **Node.js**, **Supabase**, and improving my **Backend skills**.
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/kirikanjuguna).
 - 💡 I love building sleek, practical apps that solve real problems.
@@ -31,27 +34,24 @@
 ---
 
 ### 📂 Featured Projects
-- 🛍️ [**Kenstar**](https://github.com/kirikanjuguna) – E-commerce platform with seller dashboard and enquiry system.
-- 🏍️ [**Raleigh Motorbikes**](https://github.com/kirikanjuguna) – Stylish motorbike product showcase site.
-- 🐶 [**Edd Pets**](https://github.com/kirikanjuguna) – Clean shopping experience for pet accessories.
+- 🛍️ [**Kenstar**](https://new-kenstar-b.vercel.app) – E-commerce platform with seller dashboard and enquiry system.
+- 🏍️ [**Raleigh Motorbikes**](http://raleighmotorbikes.co.ke) – Stylish motorbike product showcase site.
+- 🐶 [**Edd Pets**](https://kirikanjuguna.github.io/eddPets/) – Clean shopping experience for pet accessories.
 - 💻 **More exciting projects in progress!**
 
 ---
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/edwin-njuguna-ke" target="_blank">
+  <a href="https://www.linkedin.com/in/edwin-k-njuguna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/kirikanjuguna" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
-  <a href="https://kirikanjuguna.github.io/Edd-V1/" target="_blank">
+  <a href="https://kirikanjuguna.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-grey?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://www.tiktok.com/@fuegofitske" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok"/>
-  </a>
+
 </p>
 
 ---
