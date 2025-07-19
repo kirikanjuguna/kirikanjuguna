@@ -1,6 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Hello+👋%2C+I'm+Edwin;Jambo+👋%2C+I'm+Edwin;Hallo+👋%2C+I'm+Edwin;Bonjour+👋%2C+I'm+Edwin;Ciao+👋%2C+I'm+Edwin;こんにちは+👋%2C+I'm+Edwin;你好+👋%2C+I'm+Edwin" alt="Typing SVG" />
+  👋&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&center=false&vCenter=true&width=180&lines=Hello;Jambo;Hallo;Bonjour;Ciao" alt="Typing SVG" />
+  <br />
+  <strong>I'm Edwin</strong>
 </h1>
+
+
 
 <h3 align="center">Software Engineer | Minimalist | Problem Solver</h3>
 
