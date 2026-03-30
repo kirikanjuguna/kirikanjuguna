@@ -16,8 +16,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on **Kenstar**, and **Solo pro** while developing other exciting projects.
-- 🌱 I’m learning **TypeScript**, **Node.js**, **Supabase**, and improving my **Backend skills**.
+- 🔭 I’m currently working on **Pont**, and **Solo pro** while developing other exciting projects.
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/kirikanjuguna).
 - 💡 I love building sleek, practical apps that solve real problems.
 - ⚡ Fun fact: I’m blending tech, business, and creativity to build digital products that actually matter!
